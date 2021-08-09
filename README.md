@@ -1,7 +1,7 @@
 # U-GAT-IT-implement
 
 ### parameter
-url : https://drive.google.com/drive/u/1/folders/1vVq9WTMsW6ZWJIIz3md-k8kvXGKf8W8u
+url : https://drive.google.com/file/d/1Hxx0fnTZJ9e6K6iC_IyRRAztnuQP6U5R/view?usp=sharing
 
 ### Result
 ![x2y](./example/X2Y.jpg)
