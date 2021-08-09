@@ -1,6 +1,6 @@
 batch_size=1
 save_iter=5000
-lr=1e-4
+lr=1e-7
 weight_decay=1e-4
 device='cuda'
 
@@ -13,12 +13,12 @@ beta2=0.999
 
 image_size=128
 image_display=1000
-num_gen_img= 20
+num_gen_img= 25
 base=32
 n_res=4
 
 
-load_model=False
+load_model=True
 train_x_pth='../../data/gan/selfie2anime/train/trainA/'
 train_y_pth='../../data/gan/selfie2anime/train/trainB/'
 val_x_pth='../../data/gan/selfie2anime/test/testA/'
